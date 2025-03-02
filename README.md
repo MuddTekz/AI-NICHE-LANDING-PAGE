@@ -1,6 +1,6 @@
 # AI-NICHE-LANDING-PAGE
 Screenshots:
-![Screenshot 1](screenshot1.png)
+![Screenshot 1](screenshot.png)
 ![Screenshot 2](screenshot2.png)
 AI-NICHE-LANDING-PAGE 🚀 - A modern, responsive landing page template for showcasing AI-powered services and products. Perfect for AI startups, portfolios, or product pages. Easy to customize and mobile-friendly. 📱💻
 
